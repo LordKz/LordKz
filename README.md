@@ -1,4 +1,4 @@
-<h2 align="left">Oá amigo</h2>
+<h2 align="left">Olá amigo</h2>
 
 ###
 
